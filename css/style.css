@@ -1,0 +1,87 @@
+/* Inserta tu código aqui */
+body {
+	font-family: 'Roboto', sans-serif;
+}
+header {
+	background-color:#383333;
+	color:white;
+	padding:10px;
+}
+
+
+.logo {
+	padding-left:10px;
+	padding-right:60px;
+	width:15%;
+}
+.menu {
+	color:white;
+	font-size:13px;
+	text-decoration:none;
+	margin-left:10px;
+}
+/*estilo segunda seccion*/
+.cuatrodiscos {
+	background-color:#E4DDDD;
+	padding:50px 15px;
+	border-bottom:2px solid #989797;
+}
+
+h3 {
+	margin-bottom:10px;
+}
+a {
+	text-decoration:none;
+}
+/*estilo seccion multiples discos */
+.corrida-fotos {
+	float:left;
+}
+.primero {
+	margin:30px 5px;
+}
+.segundo {
+	margin:30px 5px;
+}
+.tercero {
+	margin:30px 5px;
+}
+.cuarto{
+	margin:30px 5px;
+}
+.cinco {
+	margin:30px 5px;
+}
+.seis {
+	margin:30px 5px;
+}
+.siete {
+	margin:30px 5px;
+}
+/*footer*/
+.footer {
+	clear:both;
+	background-color:#706C6C;
+	color:white;
+	font-size:13px;
+	padding:20px;
+	text-decoration:none;
+}
+
+.pie {
+	margin-top:50px;
+	text-align:center;
+}
+.submenu {
+	color:#D4D1D1;
+	font-size:14px;
+	padding-top:60px;
+	text-align:center;
+	text-decoration:none;
+	text-align:center
+	font-weight:bold;
+}
+.copyright {
+	font-size:10px;
+	color:#ABA9A9;
+}
